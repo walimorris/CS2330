@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cstring>
+
 using namespace std;
+
 /*
  * CLion setup for CS2330 and basic program for testing
  * Wali Morris
